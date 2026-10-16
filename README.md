@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @STzillion
+- 👋 Hi, I’m S.T
 - 👀 I do things.... Sometimes I code and let people see my efforts..
 - 🌱 I’m currently at Eastern Kentucky University majoring in computer science, with a minor in Math.
 - 💞️ I’m looking to collaborate on different projects, or any projects you are interested in.
